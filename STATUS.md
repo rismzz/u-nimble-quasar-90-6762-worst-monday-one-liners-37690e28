@@ -34,7 +34,7 @@ disimpan.
 ## Repo & commit
 
 - Repo publik dibuat + push: https://github.com/rismzz/u-nimble-quasar-90-6762-worst-monday-one-liners-37690e28
-- Commit SHA final: `17ad660fd7076e807f5419192c11ff0663ce71cc` (branch main,
+- Commit SHA final: `38b087a41cf190922d573a4b2991ce5dff6e68d9` (branch main, 2 commits,
   1 commit). Repo dibuat 2026-11-25T19:27:32Z — setelah kompetisi dibuka
   (2026-11-25T19:04:16Z). Terverifikasi lewat GitHub API: publik, berisi
   `.makefun/owner.json`, `LICENSE`, `README.md`, `main.py`.
